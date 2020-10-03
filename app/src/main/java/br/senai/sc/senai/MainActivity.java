@@ -26,5 +26,6 @@ public class MainActivity extends AppCompatActivity {
 
         editText1.setText("");
         editText2.setText("");
+        //aa
     }
 }
